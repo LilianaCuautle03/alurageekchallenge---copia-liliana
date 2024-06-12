@@ -1,4 +1,4 @@
 
 
-# AluraGeek Frontend Challenge Project
+# AluraGeek Plataforma de Ecommerce Challenge Project
 
