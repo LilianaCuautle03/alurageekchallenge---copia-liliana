@@ -1,0 +1,132 @@
+{
+  "product": [
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnO2MpwO0OJ9jYzK0b--P3u7RgT3LXIFbeD02SrVLTZA&s",
+      "name": "Playera Star Wars",
+      "price": "$150.00",
+      "Description": "Playera para niño",
+      "category": "consolas",
+      "id": 1
+    },
+    {
+      "img": "https://cdnx.jumpseller.com/planetsabers1/image/25147951/resize/640/640?1699631967",
+      "category": "consolas",
+      "name": "Vestimenta Jedi Negro/ Café",
+      "price": "$950.00",
+      "description": "Vestimenta Jedi Negro/ Café.",
+      "id": 515151
+    },
+    {
+      "img": "https://cdn.toypro.com/media/cache/tp_product_block/uploads/images/custom/8516-src.webp",
+      "category": "consolas",
+      "name": "Playera manga larga",
+      "price": "$200.00",
+      "description": "Playera azul maga larga",
+      "id": 251541
+    },
+    {
+      "img": "https://lucicris.com/17846-large_default/pijama-hombre-invierno-star-wars-yo-soy-tu-padre-.jpg",
+      "name": "Pijama gris caballero",
+      "price": "$500.00",
+      "Description": "Pijama gris caballero",
+      "category": "consolas",
+      "id": 62652
+    },
+    {
+      "img": "https://www.sahadeycia.com.ar/15767-large_default/juego-de-sabanas-pinata-star-wars-2-1-2-plazas.jpg",
+      "name": "Juego de sabanas",
+      "price": "$4500.00",
+      "Description": "Juego de sabanas negro. ",
+      "category": "consolas",
+      "id": 41451632
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcBJH_-rGC4EThxJT1zvVjcwEcn0eqLJX2NnPP13zPOg&s",
+      "name": "Taza negra edition",
+      "price": "$500.00",
+      "Description": "Edición especial ",
+      "category": "diversos",
+      "id": 425222523
+    },
+    {
+      "img": "https://regalosmuna.com/cdn/shop/files/3_5798cad6-3efc-4a7a-a9c7-e04ef9a41a14.png?v=1685488008&width=1445",
+      "name": "Juego de tazas",
+      "price": "$950.00",
+      "Description": "Tazas varias",
+      "category": "diversos",
+      "id": 521252225
+    },
+    {
+      "img": "https://chivacalenchutienda.com/wp-content/uploads/2023/02/starwars3.png",
+      "category": "diversos",
+      "name": "Taza KYLIREN",
+      "price": "$660.00",
+      "description": "Tazas",
+      "id": 62626461232
+    },
+    {
+      "img": "https://acokaia.com/2198-thickbox_default/taza-darth-vader-posando-star-wars.jpg",
+      "name": "Taza fondo blanco",
+      "price": "$200.00",
+      "Description": "Taza",
+      "category": "diversos",
+      "id": 2632216515
+    },
+    {
+      "img": "https://i0.wp.com/asemediads.com/wp-content/uploads/2022/03/Black-5.png?fit=600%2C387&ssl=1",
+      "name": "Juego de tazas varias",
+      "price": "$450.00",
+      "Description": "Variedad de estampado",
+      "category": "diversos",
+      "id": 52320634841652
+    },
+    {
+      "img": "https://ss863.suburbia.com.mx/xl/5008635341.jpg",
+      "name": "Darth Vader Star Wars",
+      "price": "$450",
+      "description": "Darth Vader Star Wars",
+      "category": "starwars",
+      "id": "bb18ddc2"
+    },
+    {
+      "img": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12N6pr.img?w=500&h=500&m=6",
+      "category": "Grogu = Baby yoda",
+      "name": "Baby Yoda",
+      "price": "$350",
+      "description": "starwars",
+      "id": "e5a56906-0e69-4c38-a99a-f24b587c0cba"
+    },
+    {
+      "img": "https://ss424.liverpool.com.mx/xl/1135854502.jpg",
+      "category": "starwars",
+      "name": "The Mandalorian ",
+      "price": "$300.00",
+      "description": "Figura de acción Star Wars The Mandalorian\n",
+      "id": "4d3b"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/613lE8XGUWL.jpg",
+      "category": "starwars",
+      "name": "Soldado clon Andor Fase ",
+      "price": "$500",
+      "description": "Star Wars The Vintage Collection - Figuras de acción coleccionables de Soldado clon Andor Fase II de 9.5 cm, Edades de 4 años en adelante .",
+      "id": "448c04837ba2"
+    },
+    {
+      "img": "https://www.lego.com/cdn/cs/set/assets/bltde62e4576a817dd4/75349.png",
+      "category": "starwars",
+      "name": " Capitán Rex  - lego",
+      "price": "$600.00",
+      "description": "Casco del Capitán Rex 75349 | Star Wars™ | Oficial LEGO® Shop MX",
+      "id": "39c7eb06-84e4-4029-93f5-3f16c63d9857"
+    },
+    {
+      "img": "https://hebmx.vtexassets.com/arquivos/ids/820035-800-800?v=638484352383100000&width=800&height=800&aspect=true",
+      "category": "starwars",
+      "name": "Obi-Wan Kenobi",
+      "price": "$490.00",
+      "description": "Figura de Acción Starwars Obi-Wan Kenobi.",
+      "id": "a6c6"
+    }
+  ]
+}
